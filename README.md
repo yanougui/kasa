@@ -1,10 +1,24 @@
-# Getting Started with Create React App
+# p7-Kasa
+
+Projet n°7 de la formation Developpeur Web OPENCLASSROOMS
+
+# Context du projet
+
+Premier leader de la location d'appartements entre particulier en France, kasa me recrute en tant que développeur front-end en freelance pour développer sa nouvelle plateforme web. L'entreprise kasa est dans le metier de la llocation d'appartements entre partculiers depuis près de 10 ans maintenant. Avec plus de 500 annonces postées chaque jour.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Objectif
 
-In the project directory, you can run:
+Démarrer le projet React et développer l’ensemble de l’application, les composants React, les routes React Router
+
+## Cahier des charges
+
+. Create React App
+. React Router
+. Styling: L’utilisation de Sass est optionnelle. CSS est à utiliser par
+défaut.
+. Pas de librairie React externe
 
 ### `npm start`
 
