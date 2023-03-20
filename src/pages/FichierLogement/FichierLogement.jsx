@@ -20,7 +20,7 @@ function FichierLogement() {
 			res.data.map(() => setPickedAppart(picked));
 			if (picked === undefined) {
 				//renvoi vers la page 404 en cas d'URL de logement invalide
-				navigate("/404", { state: { message: "Can't get data" } });  
+				navigate("/404", { state: { message: "Impossible d'obtenir des données" } });  
 			}
 		};
 		getData();
