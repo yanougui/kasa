@@ -4,18 +4,23 @@
 
        @media screen and (min-width: $breakpoint-desktop) {
               text-transform: none;
+               
+               
        }
 
        &_link-home,
        &_link-about {
-              @include font-right(12px);
+              @include font-right(13px);
               color: $primary-color;
               text-decoration: none;
-              padding-left: 0.8rem;
+              padding-left: 0.2rem;
+              margin-right: 28px;
 
               @media screen and (min-width: $breakpoint-desktop) {
                      @include font-right(24px);
                      padding-left: 3.5rem;
+                      
+                     
               }
 
               &:hover,

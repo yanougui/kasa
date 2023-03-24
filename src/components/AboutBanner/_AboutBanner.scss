@@ -5,6 +5,7 @@
     height: 223px;
     margin-top: 20px;
     @include small-radius;
+     
 
     @media screen and (min-width: $breakpoint-desktop) {
         @include bkgrd($about-background);
